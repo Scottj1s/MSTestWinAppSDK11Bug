@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "MSTestWinAppSDK11BugRepro (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "MSTestWinAppSDK11BugRepro (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
